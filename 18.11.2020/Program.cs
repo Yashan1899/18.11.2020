@@ -11,6 +11,9 @@ namespace _18._11._2020
 
             Console.WriteLine("Введите имя");
             var name = Console.ReadLine();
+
+            Console.WriteLine("Введите профессию");
+            var profession = Console.ReadLine();
         }
     }
 }
