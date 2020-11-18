@@ -6,7 +6,8 @@ namespace _18._11._2020
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            Console.WriteLine("введите возраст");
+            int a = int.Parse(Console.ReadLine());
         }
     }
 }
