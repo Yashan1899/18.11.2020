@@ -8,6 +8,9 @@ namespace _18._11._2020
         {
             Console.WriteLine("введите возраст");
             int a = int.Parse(Console.ReadLine());
+
+            Console.WriteLine("Введите имя");
+            var name = Console.ReadLine();
         }
     }
 }
